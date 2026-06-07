@@ -79,7 +79,7 @@ or remove the `proxies` argument from all `requests.get()` calls.
 Run the script:
 
 ```bash
-python downloader.py
+python main.py
 ```
 
 The script will:
